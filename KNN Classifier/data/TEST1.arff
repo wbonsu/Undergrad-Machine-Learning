@@ -1,0 +1,20 @@
+@relation TEST_Test.csv
+
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute Class { A, B}
+
+@data
+70.0,100.99,40.2,B
+100,130,200,B
+20,20.55,10,A
+388,50,588,B
+20,277.79,88,A
+50.40,49,33,A
+60,59,99,B
+70,27.29,22,A
+110,30,222,A
+200,20,55,B
+44,39.88,44,A
+65,66,66,A

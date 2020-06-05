@@ -1,0 +1,14 @@
+@relation testingData
+
+@attribute one numeric
+@attribute two numeric
+@attribute three numeric
+@attribute class { ALL, AML}
+
+@data
+1,2,3,ALL
+3,1,6,ALL
+1,9,3,ALL
+5,1,4,ALL
+6,10,2,ALL
+11,15,4,ALL

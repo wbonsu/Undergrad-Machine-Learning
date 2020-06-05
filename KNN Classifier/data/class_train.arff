@@ -1,0 +1,14 @@
+@relation trainingData
+
+@attribute first numeric
+@attribute second numeric
+@attribute third numeric
+@attribute class { ALL, AML}
+
+@data
+20,1,8,ALL
+0,1,8,ALL
+2,6,0,ALL
+65,0,7,ALL
+8,12,20,ALL
+17,6,20,ALL
